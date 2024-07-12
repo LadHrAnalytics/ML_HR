@@ -1,3 +1,4 @@
 /source_data/superset_hr.xlsx
 /Notebooks/catboost_info
+Notebooks/__pycache__
 .env

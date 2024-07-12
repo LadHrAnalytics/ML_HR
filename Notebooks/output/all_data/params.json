@@ -1,0 +1,1 @@
+{"BASIC_TRANSFORM": false, "FREQ_CUTOFF": 1000, "THRESHOLD_CITIES": 50, "PERC_NUMBER": 0, "IS_PCA_ENABLE": false, "N_COMPONENTS": 100, "ADD_UNPROCESSED": false, "WITH_SKILLS": true, "WITH_GRADE": true, "WITH_AREA": true, "WHITELIST": false, "PROF_LIST": ["Frontend"], "VERBOSE": false, "CALC_SKILLS": false}
